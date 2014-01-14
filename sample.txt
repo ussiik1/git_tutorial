@@ -1,2 +1,3 @@
 saru demo wakaru git command
 add : henko wo index ni toroku suru
+pull : remote repository no naiyou wo syutoku suru
