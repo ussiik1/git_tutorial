@@ -1,1 +1,2 @@
 saru demo wakaru git command
+add : henko wo index ni toroku suru
